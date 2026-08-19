@@ -4,8 +4,8 @@ A simple countdown timer written in python.
 
 # Features
 
-* **Custom Timer Input: **set your countdown duration in seconds.
-* **Exit Mid Timer: **you can exit the program by pressing the letter 'q' on your keyboard when the countdown is running
+* Custom Timer Input: set your countdown duration in seconds.
+* Exit Mid Timer: you can exit the program by pressing the letter 'q' on your keyboard when the countdown is running
 
 # How to Run
 
