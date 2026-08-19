@@ -2,12 +2,12 @@
 
 A simple countdown timer written in python.
 
-# Features
+## Features
 
 * Custom Timer Input: set your countdown duration in seconds.
 * Exit Mid Timer: you can exit the program by pressing the letter 'q' on your keyboard when the countdown is running
 
-# How to Run
+## How to Run
 
 1. Clone this repository or download the source code
    ```bash
