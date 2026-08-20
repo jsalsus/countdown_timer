@@ -15,8 +15,11 @@ A simple countdown timer written in python.
    ```
    
 2. Navigate to the project directory
+   ```bash
+   cd countdown_timer
+   ```
    
-3. Run the script
+4. Run the script
    ```bash
    python main.py
    ```
